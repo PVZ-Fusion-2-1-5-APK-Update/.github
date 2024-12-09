@@ -12,7 +12,8 @@
 
 **PVZ Fusion 2.1.5** adalah versi terbaru dari game **Plants vs Zombies Fusion**, sebuah game modifikasi yang menggabungkan elemen dari berbagai game PVZ untuk memberikan pengalaman yang lebih dinamis dan seru. Pembaruan ini membawa peningkatan dalam gameplay, grafis, dan fitur-fitur baru yang membuat game ini semakin menarik untuk dimainkan. Dalam versi ini, Anda dapat menikmati tanaman dan zombie baru, serta mode permainan yang lebih bervariasi.
 
-![hq720 (3)](https://github.com/user-attachments/assets/918bb0fc-cb98-44c2-b32c-e001d098bbff)
+![1mycu4pxz4zc1](https://github.com/user-attachments/assets/57d96050-bb1d-477a-a4c1-7987b2898d6d)
+
 
 ---
 
